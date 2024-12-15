@@ -2,6 +2,8 @@
 
 by: Ydonna Pearl Quiano, May Angeline Regaspi and Joy Ann Ruin
 
+Sreamlit App (https://fphealthdiseaseprediction.streamlit.app/)
+
 Project Overview:
 This project aims to build a health disease prediction model using synthetic health data. The goal is to predict the risk of diseases based on factors such as age, cholesterol levels, blood pressure, and lifestyle choices. By utilizing modeling and simulation techniques, the project provides insights into how health risks can be managed effectively.
 
