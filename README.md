@@ -8,7 +8,9 @@ This project aims to build a health disease prediction model using synthetic hea
 Key Features:
 Synthetic Data Generation: Create realistic health data to simulate various health conditions.
 Predictive Modeling: Train machine learning models to predict the likelihood of health diseases.
+
 Model Evaluation: Evaluate the models' accuracy using different metrics to determine the best-performing model.
+
 Live Demo
 Explore the application on Streamlit Community Cloud.
 
