@@ -1,6 +1,6 @@
 pandas
-streamlit
 seaborn
+streamlit
 matplotlib
 scikit-learn
 xlsxwriter
