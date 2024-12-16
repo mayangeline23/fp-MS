@@ -33,7 +33,7 @@ The following datasets are used:
 
 ### 2. Diabetes
 - **Description**: PIMA Indian diabetes dataset.
-- **Source**: [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- **Source**: [UCI Machine Learning Repository]((https://archive.ics.uci.edu/dataset/34/diabetes))
 
 ### 3. Breast Cancer
 - **Description**: Wisconsin Diagnostic Breast Cancer (WDBC) dataset.
